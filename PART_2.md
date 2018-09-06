@@ -106,7 +106,11 @@ In this part of the lab you will be creating a UI front end and bind the data fr
 
 ![alt text](resources/images/ui/80.png "Logo Title Text 1")
 
+Now you are ready to test and run your application. Click on the `Play` icon.
+
 ![alt text](resources/images/ui/83.png "Logo Title Text 1")
+
+The result of your hard work.
 
 ![alt text](resources/images/ui/84.png "Logo Title Text 1")
 ----
