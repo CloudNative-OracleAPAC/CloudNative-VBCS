@@ -1,6 +1,7 @@
 # Part 2: User Interface
 
 ## Introduction
+In this part of the lab you will be creating a UI front end and bind the data from the BO's to the UI Components. You also will build, Create, Edit and Delete screens.
 
 ### Steps
 
@@ -30,11 +31,7 @@
 
 ![alt text](resources/images/ui/41.png "Logo Title Text 1")
 
-![alt text](resources/images/ui/42.png "Logo Title Text 1")
-
 ![alt text](resources/images/ui/43.png "Logo Title Text 1")
-
-![alt text](resources/images/ui/44.png "Logo Title Text 1")
 
 ![alt text](resources/images/ui/45.png "Logo Title Text 1")
 
@@ -112,5 +109,7 @@
 ![alt text](resources/images/ui/83.png "Logo Title Text 1")
 
 ![alt text](resources/images/ui/84.png "Logo Title Text 1")
+----
+### You have completed Part 2 of this lab. Proceed to Part 3.
 
 ## [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
