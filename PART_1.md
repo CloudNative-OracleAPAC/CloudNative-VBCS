@@ -40,6 +40,13 @@ Click the next icon to the Sample VBCS Data Model file
 ![alt text](resources/images/bo/15.png "Logo Title Text 1")
 
 ![alt text](resources/images/bo/16.png "Logo Title Text 1")
+![alt text](resources/images/bo/16A.png "Logo Title Text 1")
+
+![alt text](resources/images/bo/16B.png "Logo Title Text 1")
+
+![alt text](resources/images/bo/16C.png "Logo Title Text 1")
+
+![alt text](resources/images/bo/16D.png "Logo Title Text 1")
 
 ![alt text](resources/images/bo/17.png "Logo Title Text 1")
 
@@ -49,13 +56,6 @@ Click the next icon to the Sample VBCS Data Model file
 
 ![alt text](resources/images/bo/20.png "Logo Title Text 1")
 
-![alt text](resources/images/bo/21.png "Logo Title Text 1")
-
-![alt text](resources/images/bo/22.png "Logo Title Text 1")
-
-![alt text](resources/images/bo/23.png "Logo Title Text 1")
-
-![alt text](resources/images/bo/24.png "Logo Title Text 1")
 
 ![alt text](resources/images/bo/25.png "Logo Title Text 1")
 
