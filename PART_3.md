@@ -49,3 +49,5 @@
 ![alt text](resources/images/graph/106.png "Logo Title Text 1")
 
 ![alt text](resources/images/graph/107.png "Logo Title Text 1")
+
+## [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
