@@ -3,14 +3,17 @@
 ## Building MyFirstApp
 
 ### Introduction
-
+- TBD - 
 
 ### Creating your Business Objects (Data Model)
-After this excercise you will have the following Business Object Model
+After this excercise you will have the following Business Object Model.
 
 ![alt text](resources/images/bo/BO.png "Logo Title Text 1")
-
+----
 ### Steps
+1. You will need to login into VBCS with your username and password
+
+2. Create you first application
 ![alt text](resources/images/bo/1.png "Logo Title Text 1")
 ![alt text](resources/images/bo/2.png "Logo Title Text 1")
 ![alt text](resources/images/bo/3.png "Logo Title Text 1")
