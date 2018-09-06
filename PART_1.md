@@ -18,6 +18,8 @@ After this excercise you will have the following Business Object Model.
 
 ![alt text](resources/images/bo/5.png "Logo Title Text 1")
 
+![alt text](resources/images/bo/9.png "Logo Title Text 1")
+
 ![alt text](resources/images/bo/6.png "Logo Title Text 1")
 
 ![alt text](resources/images/bo/7.png "Logo Title Text 1")
@@ -25,7 +27,7 @@ After this excercise you will have the following Business Object Model.
 Click the next icon to the Sample VBCS Data Model file
 <a href="resources/materials/Sample-VBCS-DataModel.xlsx">![alt text](resources/images/bo/8.png "Logo Title Text 1")</a>
 
-![alt text](resources/images/bo/9.png "Logo Title Text 1")
+
 
 ![alt text](resources/images/bo/10.png "Logo Title Text 1")
 
@@ -53,8 +55,6 @@ Click the next icon to the Sample VBCS Data Model file
 ![alt text](resources/images/bo/18.png "Logo Title Text 1")
 
 ![alt text](resources/images/bo/19.png "Logo Title Text 1")
-
-![alt text](resources/images/bo/20.png "Logo Title Text 1")
 
 
 ![alt text](resources/images/bo/25.png "Logo Title Text 1")
