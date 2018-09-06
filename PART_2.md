@@ -113,4 +113,4 @@
 
 ![alt text](resources/images/ui/84.png "Logo Title Text 1")
 
-### [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
+## [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
