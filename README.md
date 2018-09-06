@@ -11,7 +11,7 @@ The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service,
 
 + [Cafe Supremo Story Board](resources/materials)
 + [Cafe Supremo Demo App](resources/materials)
-+ [Lab: Build a Simple App](resources/materials)
++ [Lab: My First Application](MyFirstApp.md)
 
 
 
