@@ -66,3 +66,4 @@ Click the next icon to the Sample VBCS Data Model file
 ![alt text](resources/images/bo/28.png "Logo Title Text 1")
 
 
+## [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
