@@ -23,12 +23,12 @@ The following figure shows the interactions among these building blocks.
 
 ![alt text](resources/images/bo/bb-interactions.png "Logo Title Text 1")
 
-### Creating your Business Objects (Data Model)
+## Creating your Business Objects (Data Model)
 After this excercise you will have the following Business Object Model.
 
 ![alt text](resources/images/bo/BO.png "Logo Title Text 1")
 ----
-### Steps
+### Steps:
 1. You will need to login into VBCS with your username and password
 
 2. Create you first application
@@ -89,6 +89,8 @@ Click the next icon to the Sample VBCS Data Model file
 ![alt text](resources/images/bo/27.png "Logo Title Text 1")
 
 ![alt text](resources/images/bo/28.png "Logo Title Text 1")
+
+## User Interface
 
 ![alt text](resources/images/ui/29.png "Logo Title Text 1")
 
@@ -201,6 +203,8 @@ Click the next icon to the Sample VBCS Data Model file
 ![alt text](resources/images/ui/83.png "Logo Title Text 1")
 
 ![alt text](resources/images/ui/84.png "Logo Title Text 1")
+
+## Adding a Graph to your application
 
 ![alt text](resources/images/graph/85.png "Logo Title Text 1")
 
