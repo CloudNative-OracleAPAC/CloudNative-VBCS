@@ -43,7 +43,7 @@ In this part of the lab you will be creating a UI front end and bind the data fr
 
 ![alt text](resources/images/ui/46.png "Logo Title Text 1")
 
-> Now the Employee Data is presented in a table component, you might want to view the full page view. Instead of zoom in and zoom out each time, we can set the page to `fit`. The following steps will illustrate that.
+> Now the Employee Data is presented in a table component, you might want to view the full page view. Instead of zoom in and zoom out each time, we can set the page to `Fit`. The following steps will illustrate that.
 
 ![alt text](resources/images/ui/47.png "Logo Title Text 1")
 
@@ -63,7 +63,7 @@ In this part of the lab you will be creating a UI front end and bind the data fr
 
 ![alt text](resources/images/ui/54.png "Logo Title Text 1")
 
-> Now you're done with your table, next is adding some actions to the data. The next few steps will guide you on adding a Create Employee function and Edit Employee function. You will notice that VBCS has some nice prebuild quickstarts to help you generating the various pages and linking the navigation.
+> Now you're done with your table, next is adding some actions to the data. The next few steps will guide you on adding a Create Employee function and Edit Employee function. You will notice that VBCS has some nice pre-built quickstarts to help you generating the various pages and linking the navigation.
 
 ![alt text](resources/images/ui/55.png "Logo Title Text 1")
 
