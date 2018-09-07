@@ -31,5 +31,6 @@ Below a preview of the end result.
 ----
 Have fun!
 
-## [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
+Continue with PART 1
+> [HOME](README.md) | [PART 1](PART_1.md) | [PART 2](PART_2.md) | [PART 3](PART_3.md)
 
