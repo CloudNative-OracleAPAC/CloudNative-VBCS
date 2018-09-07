@@ -103,4 +103,4 @@ After this excercise you will have the following Business Object Model.
 
 We now have completed Part 1, please proceed to Part 2 of this lab.
 
-> [HOME](README.md) | [PART 1](PART_1.md) | [PART 2](PART_2.md) | [PART 3](PART_3.md)
+> [`HOME`](README.md) | [`PART 1`](PART_1.md) | [`PART 2`](PART_2.md) | [`PART 3`](PART_3.md)
