@@ -4,25 +4,25 @@
 In this part of the lab you will be creating a UI front end and bind the data from the BO's to the UI Components. You also will build, Create, Edit and Delete screens.
 
 ### Steps
-
+1.
 ![alt text](resources/images/ui/29.png "Logo Title Text 1")
-
+2.
 ![alt text](resources/images/ui/30.png "Logo Title Text 1")
-
+3.
 ![alt text](resources/images/ui/31.png "Logo Title Text 1")
-
+4.
 ![alt text](resources/images/ui/32.png "Logo Title Text 1")
-
+5.
 ![alt text](resources/images/ui/33.png "Logo Title Text 1")
-
+6.
 ![alt text](resources/images/ui/34.png "Logo Title Text 1")
-
+7.
 ![alt text](resources/images/ui/35.png "Logo Title Text 1")
-
+8.
 ![alt text](resources/images/ui/36.png "Logo Title Text 1")
-
+9.
 ![alt text](resources/images/ui/37.png "Logo Title Text 1")
-
+10.
 ![alt text](resources/images/ui/38.png "Logo Title Text 1")
 
 ![alt text](resources/images/ui/39.png "Logo Title Text 1")
