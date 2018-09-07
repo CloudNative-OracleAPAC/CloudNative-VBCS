@@ -32,5 +32,6 @@ Below a preview of the end result.
 Have fun!
 
 Continue with PART 1
-> [HOME](README.md) | [PART 1](PART_1.md) | [PART 2](PART_2.md) | [PART 3](PART_3.md)
+
+> [`HOME`](README.md) | [`PART 1`](PART_1.md) | [`PART 2`](PART_2.md) | [`PART 3`](PART_3.md)
 
