@@ -65,4 +65,4 @@ In this part we will be adding a graph on your application page that visualises 
 
 You are done and have completed your First Application.
 
-## [Home](/) | [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
+## [Home](README.md) | [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
