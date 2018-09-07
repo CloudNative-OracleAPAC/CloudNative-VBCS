@@ -134,4 +134,4 @@ The result of your hard work.
 ----
 ### You have completed Part 2 of this lab. Proceed to Part 3.
 
-## [Part 1](PART_1.md) | [Part 2](PART_2.md) | [Part 3](PART_3.md)
+> [HOME](README.md) | [PART 1](PART_1.md) | [PART 2](PART_2.md) | [`PART 3`](PART_3.md)
