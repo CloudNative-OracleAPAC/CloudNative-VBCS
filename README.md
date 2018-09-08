@@ -12,7 +12,7 @@ The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service,
 ### Materials
 
 + [Cafe Supremo Story Board](resources/materials/Cafe-Supremo-VBCS-StoryBoard-Extension-v1.pdf)
-+ [Cafe Supremo Demo App](resources/materials/Cafe-Supremo-HR.zip)
++ [Cafe Supremo Demo App](CF-Demo-App.md)
 + [Lab: My First Application](MyFirstApp.md)
 
 
