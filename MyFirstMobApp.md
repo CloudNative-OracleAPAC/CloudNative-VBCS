@@ -16,7 +16,7 @@ You can download the application here:
 [Download Completed App](resources/materials/MyFirstApp.zip "Finished Application")
 
 ----
-Have fun!
+Have fun!   
 
 Continue with MOB PART 1
 
