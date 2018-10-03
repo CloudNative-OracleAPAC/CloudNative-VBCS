@@ -13,7 +13,8 @@ We will be re-using the Business Object Model of the earlier build web applicati
 
 You can download the application here: 
 
-[Finished MyFirstApp Application](resources/ "Finished Application")
+[Download Completed App](resources/materials/MyFirstApp.zip "Finished Application")
+
 ----
 Have fun!
 
