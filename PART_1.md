@@ -36,8 +36,8 @@ After this excercise you will have the following Business Object Model.
 
 ![alt text](resources/images/bo/7.png "Logo Title Text 1")
 
-8. Click the next icon and download the Sample VBCS Data Model file. You will need this file later in this lab.
-<a href="resources/materials/Sample-VBCS-DataModel.xlsx">![alt text](resources/images/bo/8.png "Logo Title Text 1")</a>
+8. Click the next icon <a href="resources/materials/Sample-VBCS-DataModel.xlsx">![alt text](resources/images/bo/8.png "Logo Title Text 1")</a> and click `download` button on the next screen to download the VBCS Data Model file. You will need this file later in this lab.
+
 
 > Take a look in the excel file and see what data.
 
