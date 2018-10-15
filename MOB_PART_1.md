@@ -2,8 +2,6 @@
 
 In this lab you’ll create an application that automates a process of approving travel requests that is currently done in spreadsheets. You will also call a public REST service and incorporate the results into your application.
 
------
-
 ## 1. Create a new Application
 
 Click the New  button
@@ -303,7 +301,7 @@ Select a row and navigate to the Edit page – select an Airline and Save, repea
 View how the mobile app will render for different device types by selecting the mobile device type in the dropdown at the top of the window
 
 
-## Simulate Running the App in the Page Designer
+## 5. Simulate Running the App in the Page Designer
 
 Running the application in the Page Designer allows you to access the live data while you are in design – so you can test not only the if the pages flow as you want them to, but also that the data and the relationships between the data are as you expect
 
@@ -319,7 +317,7 @@ Select a record and the edit page opens with the live record selected
 
 Return to Design mode by clicking the Design button
 
-## Edit the Layout 
+## 6. Edit the Layout 
 
 In this section you use the Page Editor and the Page Structure to work on the UI of the page
 
@@ -486,7 +484,7 @@ Open the Expression Editor and select the name field from the CountryVar variabl
 Repeat for the Capital, Population and Flag fields
 
 
-## Use an Event to Call the REST Service from the Page
+## 7. Use an Event to Call the REST Service from the Page
 
 
 Finally you are ready to call the REST Service from the page – to do that, in this example, you will create an event that calls the REST service when the To field is selected
@@ -554,7 +552,7 @@ You’ve finished!
 You’ve set up the call to the GetCountry REST Service that you defined earlier using the To field in the page. You passed the field to that service as a parameter. You’ve created a Variable of a Type based on the data format that is returned by the service.  You populated the variable with the returned data, you mapped the variable values to the fields on the page
 
 
-## Run the Completed Application
+## 8. Run the Completed Application
 
 
 Click Run to run the application
@@ -565,7 +563,7 @@ Select a row and click to open the Edit TravelRequest page
 Change the destination to another country (ISO code) and ensure that the country field and data update 
 
 
-## Create Visualizations of Data
+## 9. Create Visualizations of Data
 
 
 In this section you will add some visual components to the Statistics tab that you created at the start of this lab
@@ -633,13 +631,13 @@ Click on the Code tab, see that you can edit all the elements in your page from 
  
 
 
-## Run The Application
+## 10. Run The Application
 
 Finally Run the application again in the mobile simulator and move between the pages, update data and review your animations. Click back to the Visual Builder and make changes to those properties and refresh the simulator browser tab to see the changes.
 
 This concludes the name part of the Lab. Congratulations, you have created your first mobile application complete with Business Objects, a REST Service call and visualizations – all done in the Visual Builder Cloud Service primarily declaratively, but with access to the code if you prefer to work at the code level.
 
-## If You Have Extra Time
+## 11. If You Have Extra Time
 
 In this lab you have run your app using the built-in mobile application simulator. You will have noticed that the ‘Build My App’ option was disabled
 
