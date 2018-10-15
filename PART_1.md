@@ -45,7 +45,7 @@ After this excercise you will have the following Business Object Model.
 
 ![alt text](resources/images/bo/10.png "Logo Title Text 1")
 
-10. Click on the `hamburger` menu as illustrated below and choose the `Data Manager` menu item.
+10. Click on the `hamburger` menu (step: 0) as illustrated below and choose the `Data Manager` menu item (step: 1).
 
 > This will open a screen with various choices
 
