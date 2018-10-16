@@ -1,4 +1,4 @@
-# Building a Mobile App with Oracle Visual Builder Cloud Service
+# Building a myTravel Mobile App with Oracle Visual Builder Cloud Service
 
 In this lab you’ll create an application that automates a process of approving travel requests that is currently done in spreadsheets. You will also call a public REST service and incorporate the results into your application.
 
