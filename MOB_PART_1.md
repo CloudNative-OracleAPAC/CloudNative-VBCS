@@ -10,11 +10,11 @@ Select the Empty Application template
 
 ![alt text](resources/images/mob/1.png "Logo Title Text 1") 
 
-Provide a name for your application – ** <YourName>-Travel Approval **
+Provide a name for your application –  **`<YourName>-Travel Approval`**
 
 ![alt text](resources/images/mob/2.png "Logo Title Text 1") 
 
-Click `**Finish**` to complete the creation of your application.
+Click **`Finish`** to complete the creation of your application.
 
 > *You are now taken into the design environment where you’ll develop your application visually.*
 > *From here you can create mobile or web applications, connect to external REST services (Service Connections), integrate with other processes (Process Cloud) or you can create your own Business Objects.*
@@ -23,17 +23,17 @@ Click `**Finish**` to complete the creation of your application.
 
 > *You will create Business Objects to store data by importing an existing spreadsheet. You will then edit the Business Objects, adding fields and setting default values and creating a relationship between objects*
 
-Click on `Business Objects` icon to the left of the navigator 
+Click on **`Business Objects`** icon to the left of the navigator 
 
 > Note that the Business Objects navigator opens in the left panel
 
 ![alt text](resources/images/mob/3.png "Logo Title Text 1")  
 
-At the top of the navigator, click the `Business Objects` menu and select Data Manager. This provides short cuts when creating business objects
+At the top of the navigator, click the **`Business Objects`** menu and select Data Manager. This provides short cuts when creating business objects
 
 ![alt text](resources/images/mob/4.png "Logo Title Text 1") 
  
-Click on `Import Business Objects` to import data from a spreadsheet
+Click on **`Import Business Objects`** to import data from a spreadsheet
 
 ![alt text](resources/images/mob/5.png "Logo Title Text 1")  
 
@@ -41,71 +41,75 @@ Inside the Import Business Objects wizard upload the Flights spreadsheet
 
 ![alt text](resources/images/mob/6.png "Logo Title Text 1")  
 
-Once you see the upload has succeeded click `Next`
+Once you see the upload has succeeded click **`Next`**
 
 Change the Name After Import and New Object ID from **TravelRequests** to **TravelRequest**
 
 ![alt text](resources/images/mob/7.png "Logo Title Text 1")  
 
-Click Next
+Click **`Next`**
 
-Click TravelRequest to see details of that Business Object
+Click **`TravelRequest`** to see details of that Business Object
 
-Change the Type of the field with the display label Date field from DateTime to Date
+Change the **Type** of the field with the display label **Date** field from **DateTime** to **Date**
 
 ![alt text](resources/images/mob/8.png "Logo Title Text 1")  
 
-Click Finish to complete the data import and Close to finish
+Click **`Finish`** to complete the data import and **`Close`** to finish
 
-> Visual Builder creates the Business Object – it creates a table in the database, adds primary key (ID) and audit fields, imports the data from Excel into it and exposes a set of REST services that allow you to do the CRUD on that new business object
+> *Visual Builder creates the Business Object – it creates a table in the database, adds primary key (ID) and audit fields, imports the data from Excel into it and exposes a set of REST services that allow you to do the CRUD on that new business object*
 
 Now you can edit the Business Object
 
-In the Business Object navigator, click on Travel Request to open it in the editor
+In the **Business Object navigator**, click on **`Travel Request`** to open it in the editor
 
-Click on the Fields tab
+Click on the **`Fields`** tab
 
-Click on New Field to add a new field to this business object
+Click on **`New Field`** to add a new field to this business object
 
 ![alt text](resources/images/mob/9.png "Logo Title Text 1") 
 
-Add a field called Approved of type Boolean
+Add a field called **Approved** of type **Boolean**
 
 ![alt text](resources/images/mob/10.png "Logo Title Text 1") 
 
-With the Approved field highlighted, scroll down the Property Palette to the Value Calculation section. Set the Set to default if value not present of the Approved field to false
+With the **Approved** field highlighted, scroll down the **Property Palette** to the **Value Calculation** section. Set the **Set to default if value not present** of the **Approved** field to **false**
 
 ![alt text](resources/images/mob/11.png "Logo Title Text 1") 
 
-Click on the Airline Business Object, select the Data tab, note it has one imported field called Airline 
+Click on the **`Airline`** Business Object, select the **Data** tab, note it has one imported field called **Airline** 
 
 ![alt text](resources/images/mob/12.png "Logo Title Text 1")
  
-Click back on the Travel Request object
+Click back on the **`Travel Request`** object
 
-Add another field: Airline that is a Reference type field to the Airline Business Object. It automatically uses the ID field to accomplish this
+Add another field: **Airline** that is a **Reference** type field to the **Airline** Business Object. It automatically uses the ID field to accomplish this
 
-Select the Airline field as the default display field
+Select the **Airline** field as the default display field
 
 ![alt text](resources/images/mob/13.png "Logo Title Text 1") 
 
-Click on the Endpoints tab. 
+Click on the **`Endpoints`** tab.
+
 > Note the REST Endpoints that have been exposed to access the Business Objects in your apps
 
 ![alt text](resources/images/mob/14.png "Logo Title Text 1") 
 
 
-Click back on the Airline object
+Click back on the **Airline** object
 
-Add a field: Total Cost, of type Number that is going to show the total cost of air travel expense requests by airline.
+Add a field: **Total Cost**, of type **Number** that is going to show the total cost of air travel expense requests by airline.
 
 ![alt text](resources/images/mob/15.png "Logo Title Text 1") 
 
-With the Total Cost field selected, go to the Value Calculation section of the Property Palette and select Aggregate from related object data
+With the **Total Cost** field selected, go to the Value Calculation section of the Property Palette and select **`Aggregate from related object data`**.
 
 ![alt text](resources/images/mob/16.png "Logo Title Text 1") 
 
-Click the + Edit Aggregation button. See that the object to be aggregated has defaulted to Travel Request, using airline. Select Total as the function and select Cost as the field to be totaled. Click OK
+Click the + **`Edit Aggregation`** button. See that the object to be aggregated has defaulted to Travel Request, using airline. 
+Select **`Total`** as the function and select **`Cost`** as the field to be totaled. 
+
+Click **`OK`**
 
 ![alt text](resources/images/mob/17.png "Logo Title Text 1")
 
