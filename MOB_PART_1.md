@@ -4,17 +4,17 @@ In this lab you’ll create an application that automates a process of approving
 
 ## 1. Create a new Application
 
-Click the `New` button
+Click the **`New`** button
 
 Select the Empty Application template
 
 ![alt text](resources/images/mob/1.png "Logo Title Text 1") 
 
-Provide a name for your application – **<YourName>-Travel Approval**
+Provide a name for your application – ** <YourName>-Travel Approval **
 
 ![alt text](resources/images/mob/2.png "Logo Title Text 1") 
 
-Click `Finish` to complete the creation of your application.
+Click `**Finish**` to complete the creation of your application.
 
 > *You are now taken into the design environment where you’ll develop your application visually.*
 > *From here you can create mobile or web applications, connect to external REST services (Service Connections), integrate with other processes (Process Cloud) or you can create your own Business Objects.*
