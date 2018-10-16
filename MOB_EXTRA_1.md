@@ -9,12 +9,11 @@ Before you can build the app for installation on an iOS or Android device, you h
 
 Below follows an example of how to setup and build an iOS version of your mobile app.  The lab does not provide the elements for you to complete this setup
 
-Click on the Settings icon for your mobile app and click on the Build Configurations tab
+Click on the `Settings` icon for your mobile app and click on the Build Configurations tab
 
 ![alt text](resources/images/mob/E2.png "Logo Title Text 1")
  
-
-Click `New Configuration` 
+Click `New Configuration`.
 
 To follow this example, click on iOS, but if you are more familiar with Android, go there too
 
@@ -43,3 +42,6 @@ If this is a first Stage deployment you may want to take the development data in
 Once you hit the Stage button (above) the Mobile application is staged and, as it says on the screen, you can scan to install on your device (via the QR scan or by downloading the .ipa file) and start the next stage of your development process
 
 ![alt text](resources/images/mob/E6.png "Logo Title Text 1")
+
+---
+> [`HOME`](README.md) | [`MOB PART 1`](MOB_PART_1.md) | [`EXTRA`](MOB_EXTRA_1.md)

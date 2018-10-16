@@ -4,36 +4,36 @@ In this lab you’ll create an application that automates a process of approving
 
 ## 1. Create a new Application
 
-Click the New  button
+Click the `New` button
 
 Select the Empty Application template
 
 ![alt text](resources/images/mob/1.png "Logo Title Text 1") 
 
-Provide a name for your application – <YourName>-Travel Approval
+Provide a name for your application – **<YourName>-Travel Approval**
 
 ![alt text](resources/images/mob/2.png "Logo Title Text 1") 
 
-Click Finish to complete the creation of your application.
+Click `Finish` to complete the creation of your application.
 
-> You are now taken into the design environment where you’ll develop your application visually.
-> From here you can create mobile or web applications, connect to external REST services (Service Connections), integrate with other processes (Process Cloud) or you can create your own Business Objects.
+> *You are now taken into the design environment where you’ll develop your application visually.*
+> *From here you can create mobile or web applications, connect to external REST services (Service Connections), integrate with other processes (Process Cloud) or you can create your own Business Objects.*
 
 ## 2. Create Business Objects
 
-> You will create Business Objects to store data by importing an existing spreadsheet. You will then edit the Business Objects, adding fields and setting default values and creating a relationship between objects
+> *You will create Business Objects to store data by importing an existing spreadsheet. You will then edit the Business Objects, adding fields and setting default values and creating a relationship between objects*
 
-Click on Business Objects icon to the left of the navigator 
+Click on `Business Objects` icon to the left of the navigator 
 
-Note that the Business Objects navigator opens in the left panel
+> Note that the Business Objects navigator opens in the left panel
 
 ![alt text](resources/images/mob/3.png "Logo Title Text 1")  
 
-At the top of the navigator, click the Business Objects menu and select Data Manager. This provides short cuts when creating business objects
+At the top of the navigator, click the `Business Objects` menu and select Data Manager. This provides short cuts when creating business objects
 
 ![alt text](resources/images/mob/4.png "Logo Title Text 1") 
  
-Click on Import Business Objects to import data from a spreadsheet
+Click on `Import Business Objects` to import data from a spreadsheet
 
 ![alt text](resources/images/mob/5.png "Logo Title Text 1")  
 
@@ -41,9 +41,9 @@ Inside the Import Business Objects wizard upload the Flights spreadsheet
 
 ![alt text](resources/images/mob/6.png "Logo Title Text 1")  
 
-Once you see the upload has succeeded click Next
+Once you see the upload has succeeded click `Next`
 
-Change the Name After Import and New Object ID from TravelRequests to TravelRequest
+Change the Name After Import and New Object ID from **TravelRequests** to **TravelRequest**
 
 ![alt text](resources/images/mob/7.png "Logo Title Text 1")  
 
@@ -610,3 +610,5 @@ Finally Run the application again in the mobile simulator and move between the p
 
 This concludes the name part of the Lab. Congratulations, you have created your first mobile application complete with Business Objects, a REST Service call and visualizations – all done in the Visual Builder Cloud Service primarily declaratively, but with access to the code if you prefer to work at the code level.
 
+---
+> [`HOME`](README.md) | [`PART 1`](MOB_PART_1.md) | [`EXTRA`](MOB_EXTRA_1.md)
