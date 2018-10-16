@@ -10,15 +10,9 @@ When coding classes are commonly taught from Grade One, and the machine processi
 The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service, which provides an easy way to create and host web and mobile applications in a secure cloud environment. It offers an intuitive visual development experience on top of a complete development and hosting platform, which accelerates the entire cycle of application creation and provisioning, while it leverages an open, standard-based architecture  
 
 ### Materials
-
 + [Cafe Supremo Story Board](resources/materials/Cafe-Supremo-VBCS-StoryBoard-Extension-v1.pdf)
 + [Cafe Supremo Demo App](CF-Demo-App.md)
 
 ### Labs
-+ [Lab: Building a myTravel Mobile App with Visual Builder Cloud](MOB_PART_1.md)
++ [Lab 1: Building a myTravel Mobile App with Visual Builder Cloud](MOB_PART_1.md)
 + [Bonus Lab: My First Application (Web Application)](MyFirstApp.md)
-
-
-
-
-
