@@ -404,7 +404,7 @@ Click **Copy to Response Body**
 
 Click **Response**, this shows the format of the response that you copied from the **Test** tab that will be returned by the **GetCountry** service
 
-![alt text](resources/images/mob/55.png "Logo Title Text 1") 
+![alt text](resources/images/mob/56.png "Logo Title Text 1") 
  
 Click **Create** to create the service. Visual Builder creates calls allowing you to call the service and access the data returned from within your application pages
 
@@ -416,13 +416,13 @@ Click **Create** to create the service. Visual Builder creates calls allowing yo
 
 Click on **`Variables`** icon of the Edit page, and select the **Types** tab
 
-![alt text](resources/images/mob/56.png "Logo Title Text 1") 
+![alt text](resources/images/mob/57.png "Logo Title Text 1") 
 
 Click on the **`+ Type`** dropdown and select From **Endpoint**
 
 Expand **Service Connections**, **`GetCountry`** and select **`GET`**
 
-![alt text](resources/images/mob/57.png "Logo Title Text 1") 
+![alt text](resources/images/mob/58.png "Logo Title Text 1") 
 
 Click **`Next`**
 
@@ -430,20 +430,20 @@ Call the **Type** **`CountryType`** and check the **Response**checkbox to select
 
 Click **`Finish`**
 
-![alt text](resources/images/mob/58.png "Logo Title Text 1") 
+![alt text](resources/images/mob/59.png "Logo Title Text 1") 
 
 
 Click on the **`Variables`** Tab to create a **Variable** based on the **CountryType**
 
 Click **`+ Variable`**
 
-![alt text](resources/images/mob/59.png "Logo Title Text 1") 
+![alt text](resources/images/mob/60.png "Logo Title Text 1") 
 
 Give the variable the ID **CountryVar** and select the **CountryType** as the type
 
 Click **`Create`**
 
-![alt text](resources/images/mob/60.png "Logo Title Text 1") 
+![alt text](resources/images/mob/61.png "Logo Title Text 1") 
 
 
 
@@ -459,7 +459,7 @@ In the **Property Palette**, select the **Data** tab
 
 Open the **Expression Editor** and select the **`name`** field from the **`CountryVar`** variable
 
-![alt text](resources/images/mob/61.png "Logo Title Text 1") 
+![alt text](resources/images/mob/62.png "Logo Title Text 1") 
 
 Repeat for the Capital, Population and Flag fields
 
@@ -471,7 +471,7 @@ Repeat for the Capital, Population and Flag fields
 
 Select the **`To`** field, in the Property Palette go to the **Events** tab
 
-![alt text](resources/images/mob/62.png "Logo Title Text 1")
+![alt text](resources/images/mob/63.png "Logo Title Text 1")
 
 
 Click on the **New Event** dropdown and select **Quick Start: ‘value’**
@@ -480,13 +480,13 @@ Now you are in the **Actions Visual Flow Editor**
 
 From **Actions** palette, drag **Get Rest Endpoint** onto the ‘+’ as the first action 
 
-![alt text](resources/images/mob/63.png "Logo Title Text 1")  
+![alt text](resources/images/mob/64.png "Logo Title Text 1")  
 
 Click **`Select Endpoint`** 
 
 Expand **Service Connections** -  **GetCountry** and select **Get**
 
-![alt text](resources/images/mob/64.png "Logo Title Text 1") 
+![alt text](resources/images/mob/65.png "Logo Title Text 1") 
 
 Click **`Select`** 
 
@@ -499,11 +499,11 @@ In the **Property Palette** name the ID **CallCountryService**
 
 Under **Input Parameter** click **`Assign`** 
  
-![alt text](resources/images/mob/65.png "Logo Title Text 1")
+![alt text](resources/images/mob/66.png "Logo Title Text 1")
 
 Under **Sources**, expand **Page – travelRequestRecord** and drag the **`to1`** value across to the **Target** **`code`** to map the page value to the required parameter in the Service
 
-![alt text](resources/images/mob/66.png "Logo Title Text 1") 
+![alt text](resources/images/mob/67.png "Logo Title Text 1") 
 
 Click **`Save`**
 
@@ -514,14 +514,14 @@ Click **`Save`**
 
 Drag and drop an **`Assign Variable`** action as the next step in the flow
 
-![alt text](resources/images/mob/67.png "Logo Title Text 1")
+![alt text](resources/images/mob/68.png "Logo Title Text 1")
  
 
 In the **Property Palette**, click **`Assign`** link 
 
 Drag and drop from **Results – CallCountryService – body** to **Page – CountryVar** to map the service return into the page variable
 
-![alt text](resources/images/mob/68.png "Logo Title Text 1") 
+![alt text](resources/images/mob/69.png "Logo Title Text 1") 
 
 Click **`Save`** to return to the Page Editor
 
