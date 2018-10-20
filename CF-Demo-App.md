@@ -7,7 +7,7 @@
 
 > Assume you have imported the application source code above successfully.
 
-Roles based access control has been implemented in the demo. In order to provide access to the navigation within the application you will need to set up the following:
+Role based access control (RBAC) has been implemented in the demo. In order to provide access to the navigation within the application you will need to set up the following:
 
 + 1. Custom Roles
 + 2. Assign Custom Roles to user accounts
