@@ -104,7 +104,7 @@ Add a field: **Total Cost**, of type **Number** that is going to show the total 
 
 ![alt text](resources/images/mob/15.png "Logo Title Text 1") 
 
-With the **Total Cost** field selected, go to the Value Calculation section of the Property Palette and select **`Aggregate from related object data`**.
+With the **Total Cost** field selected, go to the Value Calculation section of the Property Palette and select **`(*) Aggregate from related object data`**.
 
 ![alt text](resources/images/mob/16.png "Logo Title Text 1") 
 
@@ -117,7 +117,7 @@ Click **`OK`**
 
 Add a field: Average Cost, type Number, that is going to show the total cost of air travel expense requests by airline
 
-Again, with the Average Cost field selected, go to the Value Calculation section of the Property Palette and select Aggregate from related object data
+Again, with the Average Cost field selected, go to the Value Calculation section of the Property Palette and select **`(*) Aggregate from related object data`**
 
 From the Travel Request object, select Average as the function and Cost as the field to aggregate
 
@@ -242,7 +242,7 @@ Select the **`Events`** tab in the Property Inspector. Click **`New Event`** and
 
 > *Now you are in the Visual Action Flow Diagrammer – where you can map the exact event process that you want to happen when the user selects a row in the list.*
 
-Drag a Navigate component onto the editor and Select Target from the Property Inspector
+Drag a Navigate component onto the editor and click **'Select Target'** from the Property Inspector
 
 ![alt text](resources/images/mob/37.png "Logo Title Text 1") 
 
@@ -306,9 +306,9 @@ In the Edit **TravelRequest** page, collapse the **Property Palette** and zoom t
 
 ![alt text](resources/images/mob/43.png "Logo Title Text 1")  
 
-*In the **Page Structure** that the first element in the page is a **`Flex Container`** that contains the default Form Layout and items you picked when you created the Edit Page*
+*In the **Page Structure** note that the first element in the page is a **`Flex Container`** that contains the default Form Layout and items you picked when you created the Edit Page*
 
-From the **Component Palette** drag and drop a new top level **Flex Container** into the **Page Structure** – below the **Mobile Page Template**
+From the **'Layout'** section of the **Component Palette** drag and drop a new top level **Flex Container** into the **Page Structure** – below the **Mobile Page Template**
 
 > Note that it renames to **Flex Row**
 
@@ -320,7 +320,7 @@ Drag and drop 3 Flex Containers into the Flex Row (children of)  – using eithe
 
 ![alt text](resources/images/mob/45.png "Logo Title Text 1")  
 
-From the **Component Palette** drag and drop an **Avatar** into the first **Flex Container**
+From the **'Common'** section of the **Component Palette** drag and drop an **Avatar** into the first **Flex Container**
 
 With the Avatar selected, expand the **Property Palette**, select the **`Data Tab`**
 
@@ -354,7 +354,7 @@ Whichever method you choose, the **Structure Pane** should look like this – on
 
 ![alt text](resources/images/mob/51.png "Logo Title Text 1") 
 
-With the new **Flex Container** selected, add an **Image** component into it
+With the new **Flex Container** selected, add an **Image** component into it from the **'Common'** section of the **'Component Palette'**
 
 Now add a **Form Layout** below the **Image**, use the **Page Structure** directly to move components around
 
@@ -363,7 +363,7 @@ Now add a **Form Layout** below the **Image**, use the **Page Structure** direct
 
 Select the **Image** and change the **Width** property to **250** and the **Height** property to **150**
 
-Select the **Form Layout** and add 2 **Input Text** fields – label them **Country** and **Capital. Add a Number Input field and label it **Population**. In the **Property Palette for each of these items, set them to **Readonly**
+Select the **Form Layout** and add 2 **Input Text** fields – label them **Country** and **Capital**. Add a Number Input field and label it **Population**. In the **Property Palette for each of these items, set them to **Readonly**
 
 ![alt text](resources/images/mob/53.png "Logo Title Text 1") 
 
@@ -478,7 +478,7 @@ Click on the **New Event** dropdown and select **Quick Start: ‘value’**
 
 Now you are in the **Actions Visual Flow Editor** 
 
-From **Actions** palette, drag **Get Rest Endpoint** onto the ‘+’ as the first action 
+From **Actions** palette, drag **Call Rest Endpoint** onto the ‘+’ as the first action 
 
 ![alt text](resources/images/mob/64.png "Logo Title Text 1")  
 
