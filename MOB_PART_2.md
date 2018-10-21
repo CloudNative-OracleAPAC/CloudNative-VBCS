@@ -74,7 +74,7 @@ Click on the **Code** tab, see that you can edit all the elements in your page f
 
 Finally **Run** the application again in the mobile simulator and move between the pages, update data and review your animations. Click back to the Visual Builder and make changes to those properties and refresh the simulator browser tab to see the changes.
 
-*This concludes the main hands on lab. Congratulations, you have created your first mobile application complete with Business Objects, a REST Service call and visualizations – all done in the Visual Builder Cloud Service primarily declaratively, but with access to the code if you prefer to work at the code level.*
+*This concludes the main Hands-On-lab. Congratulations, you have created your first mobile application complete with Business Objects, a REST Service call and visualizations – all done in the Visual Builder Cloud Service primarily declaratively, but with access to the code if you prefer to work at the code level.*
 
 ### If you have extra time proceed to EXTRA
 
