@@ -34,9 +34,13 @@ In the Property Palette for the chart, change the **animation-on-display** to **
 
 With the **Flex Container** holding the Pie Chart selected, drag a **Scatter Chart** onto the Page (Hint: you may wish to use the Page Structure to insert the chart)
 
+Select the **'Quick Start'** icon if not currently high-lighted.
+
 Click **Add Data**
 
 ![alt text](resources/images/mob/74.png "Logo Title Text 1") 
+
+Select the **'Airline'** Business Object
 
 Drag **totalCost** onto the **x Axis**
 
@@ -49,7 +53,7 @@ Click **Next**, **Finish**
  
 ![alt text](resources/images/mob/75.png "Logo Title Text 1")
 
-In the Properties for the **Page Template**, edit to **Page Title** to read **Airline Statistics**
+In the Properties for the **Page Template**, edit theA **Page Title** to read **Airline Statistics**
 
 Drag a **Heading** item into each of the containers for the charts and name them:
 
@@ -70,7 +74,7 @@ Click on the **Code** tab, see that you can edit all the elements in your page f
 
 Finally **Run** the application again in the mobile simulator and move between the pages, update data and review your animations. Click back to the Visual Builder and make changes to those properties and refresh the simulator browser tab to see the changes.
 
-*This concludes the name part of the Lab. Congratulations, you have created your first mobile application complete with Business Objects, a REST Service call and visualizations – all done in the Visual Builder Cloud Service primarily declaratively, but with access to the code if you prefer to work at the code level.*
+*This concludes the main hands on lab. Congratulations, you have created your first mobile application complete with Business Objects, a REST Service call and visualizations – all done in the Visual Builder Cloud Service primarily declaratively, but with access to the code if you prefer to work at the code level.*
 
 ### If you have extra time proceed to EXTRA
 
