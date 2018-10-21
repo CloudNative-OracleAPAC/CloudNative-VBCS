@@ -7,7 +7,7 @@
 
 Before you can build the app for installation on an iOS or Android device, you have to create a Build Configuration
 
-Below follows an example of how to setup and build an iOS version of your mobile app.  The lab does not provide the elements for you to complete this setup
+Below is an example of how to setup and build an iOS version of your mobile app.  The lab does not provide the elements for you to complete this setup
 
 Click on the **`Settings`** icon for your mobile app and click on the Build Configurations tab
 
