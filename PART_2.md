@@ -13,7 +13,7 @@ In this part of the lab you will be creating a UI front end and bind the data fr
 ![alt text](resources/images/ui/30.png "Logo Title Text 1")
 
 #### 2. Adding seperator line
-> What we will start with is to place a header and a seperator line on to you main application page.
+> What we will start with is to place a header and a seperator line onto the main application page.
 
 ![alt text](resources/images/ui/31.png "Logo Title Text 1")
 
@@ -54,7 +54,7 @@ In this part of the lab you will be creating a UI front end and bind the data fr
 ![alt text](resources/images/ui/48.png "Logo Title Text 1")
 
 #### 5. Adjust Table
-> No we have a full view of the table, we most probably want to change the name or the sequence of the table columns. The following steps will guide you how this can be done.
+> Now we have a full view of the table, we most probably want to change the name or the sequence of the table columns. The following steps will guide you how this can be done.
 
 ![alt text](resources/images/ui/49.png "Logo Title Text 1")
 
