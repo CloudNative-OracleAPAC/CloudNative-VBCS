@@ -21,7 +21,7 @@ In this part we will be adding a graph on your application page that visualises 
 
 ![alt text](resources/images/graph/89.png "Logo Title Text 1")
 
-> 4. We will be adding a field of the type numbe to hold the **aggregated** relationships between **Employee** and **Department**. This data will be used for the Bar Chart.
+> 4. We will be adding a field of the type **number** to hold the **aggregated** relationships between **Employee** and **Department**. This data will be used for the Bar Chart.
 
 ![alt text](resources/images/graph/90.png "Logo Title Text 1")
 
