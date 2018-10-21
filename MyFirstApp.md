@@ -3,7 +3,7 @@
 ## Building MyFirstApp
 
 ### Introduction
-The basic components of a visual application are mobile applications, web applications, service connections, business objects, and processes.
+The basic components of a Visual Builder Cloud Service application are mobile applications, web applications, service connections, business objects, and processes.
 
 The basic building blocks of a mobile or web application are user interface (UI) components, variables, action chains, page flows and page navigation, and data access through REST endpoints.
 
