@@ -1,4 +1,4 @@
-# Building a myTravel Mobile App with Oracle Visual Builder Cloud Service
+# Building a ''*myTravel*'' Mobile App with Oracle Visual Builder Cloud Service
 
 In this lab you’ll create an application that automates a process of approving travel requests that is currently done in spreadsheets. You will also call a public REST service and incorporate the results into your application.
 
@@ -23,7 +23,7 @@ Click **`Finish`** to complete the creation of your application.
 
 > *You will create Business Objects to store data by importing an existing spreadsheet. You will then edit the Business Objects, adding fields and setting default values and creating a relationship between objects*
 
-Click on **`Business Objects`** icon to the left of the navigator 
+Click on the **`Business Objects`** icon to the left of the navigator 
 
 > Note that the Business Objects navigator opens in the left panel
 
@@ -75,11 +75,11 @@ Add a field called **Approved** of type **Boolean**
 
 ![alt text](resources/images/mob/10.png "Logo Title Text 1") 
 
-With the **Approved** field highlighted, scroll down the **Property Palette** to the **Value Calculation** section. Set the **Set to default if value not present** of the **Approved** field to **false**
+With the **Approved** field highlighted, scroll down the **Property Palette** to the **Value Calculation** section. Set the **Set to default if value not provided** of the **Approved** field to **false**
 
 ![alt text](resources/images/mob/11.png "Logo Title Text 1") 
 
-Click on the **`Airline`** Business Object, select the **Data** tab, note it has one imported field called **Airline** 
+Click on the **`Airline`** Business Object, select the **Fields** tab, note it has one imported field called **Airline** 
 
 ![alt text](resources/images/mob/12.png "Logo Title Text 1")
  
@@ -108,7 +108,7 @@ With the **Total Cost** field selected, go to the Value Calculation section of t
 
 ![alt text](resources/images/mob/16.png "Logo Title Text 1") 
 
-Click the + **`Edit Aggregation`** button. See that the object to be aggregated has defaulted to Travel Request, using airline. 
+Click the + **`Edit Aggregation`** button. See that the object to be aggregated has defaulted to **Travel Request, (using airline)**. 
 Select **`Total`** as the function and select **`Cost`** as the field to be totaled. 
 
 Click **`OK`**
@@ -137,13 +137,13 @@ Keep the default **Navigation Style (Bottom Bar)** and name two **Navigation Ite
 
 ![alt text](resources/images/mob/20.png "Logo Title Text 1")
 
-Now you can choose a default layout for your home screen. Select **No Content**
+Now you can choose a default layout for your home screen. Select **No Content** then the **``Finish``**
 
 ![alt text](resources/images/mob/21.png "Logo Title Text 1") 
 
 Expand **`mytravel`** in the **Application Navigator**.
 
-> *VBCS has created a page flow for each of the Navigation Items you specified earlier. It has also opened created a home screen for each flow and opened the first: requests-start. It is the entry point to your application*.
+> *VBCS has created a page flow for each of the Navigation Items you specified earlier. It has also created a home screen for each flow and opened the first: requests-start. It is the entry point to your application*.
 
 Collapse the **Application Navigator** and the **Page Structure** viewer (as necessary) by clicking on the collapse icons 
 
@@ -163,7 +163,7 @@ Ensure the **Design Tab** is selected. In the Editor, select **`Page Title`** an
 
 ![alt text](resources/images/mob/24.png "Logo Title Text 1") 
 
-From the Component Palette drag a **List View** onto the page 
+From the Collection Section of the Component Palette drag a **List View** onto the page 
 
 
 ![alt text](resources/images/mob/25.png "Logo Title Text 1") 
@@ -254,7 +254,7 @@ Click the **`Select`** button
 ![alt text](resources/images/mob/38.png "Logo Title Text 1") 
 
 
-Now click on the **Assign Input Parameter** link in the **Property Inspector** to assign the selected row ID so its Edit page opens
+Now click on the **Input Parameters : Assign** link in the **Property Inspector** to assign the selected row ID so its Edit page opens
  
 ![alt text](resources/images/mob/39.png "Logo Title Text 1")
 
