@@ -14,14 +14,16 @@ Your mobile application must be signed before it can be deployed to an Android d
 
 We have generated a sample keystore for you to use. Download the KeyStore file below.
 
-Sample Keystore file:
+Sample Keystore file: 
 
-Keystore Password: vbcsdoc_ks_pass
-Key alias: vbcsdoc_ksalias
-Key password: vbcsdoc_ks_pass
++ Keystore Password: **vbcsdoc_ks_pass**
++ Key alias: **vbcsdoc_ksalias**
++ Key password: **vbcsdoc_ks_pass**
 
 ### Configure Application Setting.
 Once you've downloaded the KeyStore file, you're ready to configure the application settings.
+
+
 ### Define a Build Configuration
 
 ### Build the Mobile Application
