@@ -2,7 +2,7 @@
 
 In this lab you’ll create an application that automates a process of approving travel requests that is currently done in spreadsheets. You will also call a public REST service and incorporate the results into your application.
 
-![alt text](../resources/images/myTravel1.jpeg "Logo Title Text 1") ![alt text](../resources/images/myTravel2.jpeg "Logo Title Text 1") 
+![alt text](../resources/images/myTravel1.jpeg "Logo Title Text 1") ![alt text](../resources/images/MyTravel2.jpeg "Logo Title Text 1") 
 
 ----
 
