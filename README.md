@@ -16,12 +16,7 @@ This web application features a fictitious company Cafe Supremo, human resources
 + [Cafe Supremo Demo App](CF-Demo-App.md)
 
 ### Labs
-<<<<<<< HEAD
+The following labs will run show you step by step how you can build a Mobile and Web Application in Oracle Visual Builder
 + [Lab 1: Building a myTravel Mobile App with Visual Builder Cloud](MobileApp/MOB_PART_1.md)
 + [Bonus Lab: My First Application (Web Application)](WebApp/MyFirstApp.md)
-=======
-The following labs will run show you step by step how you can build a Mobile and Web Application in Oracle Visual Builder
-+ [Lab 1: Building a myTravel Mobile App with Visual Builder Cloud](MOB_PART_1.md)
-+ [Bonus Lab: My First Application (Web Application)](MyFirstApp.md)
 
->>>>>>> 2718231779ff5b0897b4355fc62a2ea56d39d4da
