@@ -9,10 +9,19 @@ When coding classes are commonly taught from Grade One, and the machine processi
 
 The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service, which provides an easy way to create and host web and mobile applications in a secure cloud environment. It offers an intuitive visual development experience on top of a complete development and hosting platform, which accelerates the entire cycle of application creation and provisioning, while it leverages an open, standard-based architecture  
 
-### Materials
+### VBCS Demo Web Application
+This web application features a fictitious company Cafe Supremo, human resources portal. This portal has been fully build using Visual Builder. Below the story board and the source of the application. You can download and import into your own Visual Builder Cloud instance.
+
 + [Cafe Supremo Story Board](resources/materials/Cafe-Supremo-VBCS-StoryBoard-Extension-v1.pdf)
 + [Cafe Supremo Demo App](CF-Demo-App.md)
 
 ### Labs
+<<<<<<< HEAD
 + [Lab 1: Building a myTravel Mobile App with Visual Builder Cloud](MobileApp/MOB_PART_1.md)
 + [Bonus Lab: My First Application (Web Application)](WebApp/MyFirstApp.md)
+=======
+The following labs will run show you step by step how you can build a Mobile and Web Application in Oracle Visual Builder
++ [Lab 1: Building a myTravel Mobile App with Visual Builder Cloud](MOB_PART_1.md)
++ [Bonus Lab: My First Application (Web Application)](MyFirstApp.md)
+
+>>>>>>> 2718231779ff5b0897b4355fc62a2ea56d39d4da
