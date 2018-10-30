@@ -11,7 +11,7 @@ In this lab you’ll create an application that automates a process of approving
 Click the **`New`** button
 
 Provide a name for your application –  **`<YourName> Travel Approval`**
-
+ 
 ![alt text](../resources/images/mob/2.png "Logo Title Text 1") 
 
 Click **`Finish`** to complete the creation of your application.
