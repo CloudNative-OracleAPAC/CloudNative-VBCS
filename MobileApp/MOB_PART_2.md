@@ -6,25 +6,25 @@ Expand the main **Application Navigator** and expand the mobile application **my
 
 Under flows are the **requests** flow you have been working on and the **statistics** flow – with a default page – click **`statistics-start`**** to open it in the **Visual Editor**
 
-![alt text](resources/images/mob/70.png "Logo Title Text 1") 
+![alt text](../resources/images/mob/70.png "Logo Title Text 1") 
 
 ### Add Data Visualizations to a Page
 
 Drag a **Pie Chart** from the **Component Navigator** onto the page
 
-![alt text](resources/images/mob/71.png "Logo Title Text 1") 
+![alt text](../resources/images/mob/71.png "Logo Title Text 1") 
 
 Click **Add Data**
 
 Choose the **Airline Business Object** and click **Next**
 
-![alt text](resources/images/mob/72.png "Logo Title Text 1") 
+![alt text](../resources/images/mob/72.png "Logo Title Text 1") 
 
 Drag **totalCost** into the **Slice Values**
 
 Drag **airline** into the **Slice Colors**
 
-![alt text](resources/images/mob/73.png "Logo Title Text 1") 
+![alt text](../resources/images/mob/73.png "Logo Title Text 1") 
 
 Click **Next**, **Finish**
 
@@ -38,7 +38,7 @@ Select the **'Quick Start'** icon if not currently high-lighted.
 
 Click **Add Data**
 
-![alt text](resources/images/mob/74.png "Logo Title Text 1") 
+![alt text](../resources/images/mob/74.png "Logo Title Text 1") 
 
 Select the **'Airline'** Business Object
 
@@ -51,7 +51,7 @@ Drag **airline** onto **Marker Colors**
 Click **Next**, **Finish**
 
  
-![alt text](resources/images/mob/75.png "Logo Title Text 1")
+![alt text](../resources/images/mob/75.png "Logo Title Text 1")
 
 In the Properties for the **Page Template**, edit theA **Page Title** to read **Airline Statistics**
 
@@ -63,11 +63,11 @@ Drag a **Heading** item into each of the containers for the charts and name them
 
 Experiment with the **Animate on Display** and **Animate on Data Change** properties of each chart
  
-![alt text](resources/images/mob/76.png "Logo Title Text 1")
+![alt text](../resources/images/mob/76.png "Logo Title Text 1")
 
 Click on the **Code** tab, see that you can edit all the elements in your page from here if you prefer – for instance, find the **legend.title="Airline"** for one of the charts and edit it to **legend.title="Airline Spend"**
 
-![alt text](resources/images/mob/77.png "Logo Title Text 1") 
+![alt text](../resources/images/mob/77.png "Logo Title Text 1") 
 
 
 ## 10. Run The Application

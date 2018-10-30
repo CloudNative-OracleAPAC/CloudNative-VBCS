@@ -14,5 +14,5 @@ The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service,
 + [Cafe Supremo Demo App](CF-Demo-App.md)
 
 ### Labs
-+ [Lab 1: Building a myTravel Mobile App with Visual Builder Cloud](MOB_PART_1.md)
-+ [Bonus Lab: My First Application (Web Application)](MyFirstApp.md)
++ [Lab 1: Building a myTravel Mobile App with Visual Builder Cloud](MobileApp/MOB_PART_1.md)
++ [Bonus Lab: My First Application (Web Application)](WebApp/MyFirstApp.md)
