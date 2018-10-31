@@ -29,8 +29,6 @@ Click on **`mytravel`** Mobile application.
 
 This will open the application in a new tab. Next is to click on the **`Settings`** icon as illustrated below.
 
-![alt text](../resources/images/android/android2.png "Logo Title Text 1")
-
 ![alt text](../resources/images/android/android3.png "Logo Title Text 1")
 
 Then click on the **`Build Profiles`** tab.
@@ -44,6 +42,7 @@ Now we will create a new profile for Android.
 ![alt text](../resources/images/android/android5.png "Logo Title Text 1")
 
 The "Android Build Profile" dialog window will open. 
+
 ![alt text](../resources/images/android/android6.png "Logo Title Text 1")
 
 + Fill in the following:
@@ -81,7 +80,7 @@ The preview screen will open en your application will load.
 
 ![alt text](../resources/images/android/android13.png "Logo Title Text 1")
 
-On the right click on **`Build my App`** button to start your build. A build dialog will open, select the option `Populate Stage with Development data` and click **`Stage`** button.
+On the right click on **`Build my App`** button to start your build. A build dialog will open, select the option **`Populate Stage with Development data`** and click **`Stage`** button.
 
 ![alt text](../resources/images/android/android14.png "Logo Title Text 1")
 
