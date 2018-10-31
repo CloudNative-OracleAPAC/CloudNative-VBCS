@@ -41,7 +41,7 @@ Now we will create a new profile for Android.
 
 ![alt text](../resources/images/android/android5.png "Logo Title Text 1")
 
-The "Android Build Profile" dialog window will open. 
+The **"Android Build Profile"** dialog window will open. 
 
 ![alt text](../resources/images/android/android6.png "Logo Title Text 1")
 
