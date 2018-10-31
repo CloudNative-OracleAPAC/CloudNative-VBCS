@@ -21,17 +21,17 @@ All data entering a mobile or web application is based on REST. This data can co
 
 The following figure shows the interactions among these building blocks.
 
-![alt text](resources/images/bo/bb-interactions.png "Logo Title Text 1")
+![alt text](../resources/images/bo/bb-interactions.png "Logo Title Text 1")
 
 ## What are you going to build
 In this hands on lab you will be building a Simple HR application that features Employees, Departments and Locations.
 Below a preview of the end result.
 
-![Finished Application](resources/images/ResultScreen.png "Finished Application")
+![Finished Application](../resources/images/ResultScreen.png "Finished Application")
 ----
 Have fun!
 
 Continue with PART 1
 
-> [`HOME`](README.md) | [`PART 1`](PART_1.md) | [`PART 2`](PART_2.md) | [`PART 3`](PART_3.md)
+> [`HOME`](../README.md) | [`PART 1`](PART_1.md) | [`PART 2`](PART_2.md) | [`PART 3`](PART_3.md)
 
