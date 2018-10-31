@@ -23,27 +23,27 @@ Sample Keystore file:  <a href="resources/KSFile/vbcsdoc.keystore">vbcsdoc.keyst
 ### Configure Application Setting.
 Once you've downloaded the KeyStore file, you're ready to configure the application settings.
 
-(../resources/images/android/android1.png "Logo Title Text 1")
-(../resources/images/android/android2.png "Logo Title Text 1")
-(../resources/images/android/android3.png "Logo Title Text 1")
-(../resources/images/android/android4.png "Logo Title Text 1")
+![alt text](../resources/images/android/android1.png "Logo Title Text 1")
+![alt text](../resources/images/android/android2.png "Logo Title Text 1")
+![alt text](../resources/images/android/android3.png "Logo Title Text 1")
+![alt text](../resources/images/android/android4.png "Logo Title Text 1")
 
 ### Define a Build Configuration
 
-(../resources/images/android/android5.png "Logo Title Text 1")
-(../resources/images/android/android6.png "Logo Title Text 1")
-(../resources/images/android/android7.png "Logo Title Text 1")
-(../resources/images/android/android8.png "Logo Title Text 1")
-(../resources/images/android/android9.png "Logo Title Text 1")
-(../resources/images/android/android10.png "Logo Title Text 1")
-(../resources/images/android/android11.png "Logo Title Text 1")
+![alt text](../resources/images/android/android5.png "Logo Title Text 1")
+![alt text](../resources/images/android/android6.png "Logo Title Text 1")
+![alt text](../resources/images/android/android7.png "Logo Title Text 1")
+![alt text](../resources/images/android/android8.png "Logo Title Text 1")
+![alt text](../resources/images/android/android9.png "Logo Title Text 1")
+![alt text](../resources/images/android/android10.png "Logo Title Text 1")
+![alt text](../resources/images/android/android11.png "Logo Title Text 1")
 
 ### Build the Mobile Application
 
-(../resources/images/android/android12.png "Logo Title Text 1")
-(../resources/images/adroid/android13.png "Logo Title Text 1")
-(../resources/images/android/android14.png "Logo Title Text 1")
-(../resources/images/android/android15.png "Logo Title Text 1")
+![alt text](../resources/images/android/android12.png "Logo Title Text 1")
+![alt text](../resources/images/adroid/android13.png "Logo Title Text 1")
+![alt text](../resources/images/android/android14.png "Logo Title Text 1")
+![alt text](../resources/images/android/android15.png "Logo Title Text 1")
 
 
 ## iOS
