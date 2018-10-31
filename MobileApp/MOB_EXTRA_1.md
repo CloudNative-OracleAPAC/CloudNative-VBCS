@@ -23,26 +23,70 @@ Sample Keystore file:  <a href="resources/KSFile/vbcsdoc.keystore">vbcsdoc.keyst
 ### Configure Application Setting.
 Once you've downloaded the KeyStore file, you're ready to configure the application settings.
 
+Click on **`mytravel`** Mobile application. 
+
 ![alt text](../resources/images/android/android1.png "Logo Title Text 1")
+
+This will open the application in a new tab. Next is to click on the **`Settings`** icon as illustrated below.
+
 ![alt text](../resources/images/android/android2.png "Logo Title Text 1")
+
 ![alt text](../resources/images/android/android3.png "Logo Title Text 1")
+
+Then click on the **`Build Profiles`** tab.
+
 ![alt text](../resources/images/android/android4.png "Logo Title Text 1")
 
 ### Define a Build Configuration
 
+Now we will create a new profile for Android.
+
 ![alt text](../resources/images/android/android5.png "Logo Title Text 1")
+
+The "Android Build Profile" dialog window will open. 
 ![alt text](../resources/images/android/android6.png "Logo Title Text 1")
-![alt text](../resources/images/android/android7.png "Logo Title Text 1")
-![alt text](../resources/images/android/android8.png "Logo Title Text 1")
-![alt text](../resources/images/android/android9.png "Logo Title Text 1")
+
++ Fill in the following:
++ Profile Name: **Android**
++ Build Type: **Release**
++ App ID: **Leave the default**
++ Version Name: **Leave the default**
++ Version Code: **Leave the default**
+
+For Key store click `Click` and select the ketstore file you've downloaded earlier. (vbcsdoc.keystore)
+
+Now fill in the following:
+
++ Keystore Password: **vbcsdoc_ks_pass**
++ Key alias: **vbcsdoc_ksalias**
++ Key password: **vbcsdoc_ks_pass**
+
+And finaly select the checkbox **`Default Profole for Stage/Publish`**
+
 ![alt text](../resources/images/android/android10.png "Logo Title Text 1")
+
+Click **`Save`** button this will close the dialog window and you should see the following.
+
 ![alt text](../resources/images/android/android11.png "Logo Title Text 1")
 
 ### Build the Mobile Application
 
+Now the Android Build Profile has been configured, we can go and build the mobile application.
+
+Click on the preview button at the right to as illustrated below.
+
 ![alt text](../resources/images/android/android12.png "Logo Title Text 1")
-![alt text](../resources/images/adroid/android13.png "Logo Title Text 1")
+
+The preview screen will open en your application will load.
+
+![alt text](../resources/images/android/android13.png "Logo Title Text 1")
+
+On the right click on **`Build my App`** button to start your build. A build dialog will open, select the option `Populate Stage with Development data` and click **`Stage`** button.
+
 ![alt text](../resources/images/android/android14.png "Logo Title Text 1")
+
+Your build appliacation could take some time, once done a Android QR code is shown. you can now download the app to your Android mobile device by scanning the QR code.
+
 ![alt text](../resources/images/android/android15.png "Logo Title Text 1")
 
 
