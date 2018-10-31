@@ -1,5 +1,9 @@
 # Cafe Supremo Demo HR Application
 
+## The Cafe Supremo HR Demo App
+
+![](resources/images/cf/dashboard.png) ![](resources/images/cf/manager.png)
+
 ## Demo Application Source
 + [Download Cafe Supremo Demo App Source Code](resources/materials/Cafe-Supremo-HR.zip)
 
