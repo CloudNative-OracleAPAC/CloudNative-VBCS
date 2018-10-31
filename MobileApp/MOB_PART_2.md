@@ -4,7 +4,7 @@
 
 Expand the main **Application Navigator** and expand the mobile application **myTravel** that you are working on
 
-Under flows are the **requests** flow you have been working on and the **statistics** flow – with a default page – click **`statistics-start`**** to open it in the **Visual Editor**
+Under flows are the **requests** flow you have been working on and the **statistics** flow – with a default page – click **`statistics-start`** to open it in the **Visual Editor**
 
 ![alt text](../resources/images/mob/70.png "Logo Title Text 1") 
 
