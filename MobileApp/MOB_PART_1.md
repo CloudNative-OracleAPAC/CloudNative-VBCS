@@ -544,4 +544,4 @@ Change the destination to another country (ISO code) and ensure that the country
 ### Proceed to PART 2 of this HOL
 
 ---
-> [`HOME`](../README.md) | [`PART 1`](MOB_PART_1.md) | [`PART 2`](MOB_PART_2.md) | [`EXTRA`](MOB_EXTRA_1.md)
+> [`HOME`](../README.md) | [`PART 1`](MOB_PART_1.md) | [`PART 2`](MOB_PART_2.md) | [`EXTRA`](MOB_EXTRA_1.md) | [`Connecting DevCS`](../DevCS/README.md)
