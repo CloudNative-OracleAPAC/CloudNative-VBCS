@@ -17,9 +17,7 @@ TBD
 
 ![](../resources/images/devcs/devcs11.png)
 ![](../resources/images/devcs/devcs12.png)
-![](../resources/images/devcs/devcs13.png)
-![](../resources/images/devcs/devcs14.png)
-![](../resources/images/devcs/devcs15.png)
+
 
 ![](../resources/images/devcs/devcs16.png)
 ![](../resources/images/devcs/devcs17.png)
