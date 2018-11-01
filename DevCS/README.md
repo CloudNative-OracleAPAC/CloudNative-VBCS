@@ -13,10 +13,6 @@ TBD
 ![](../resources/images/devcs/devcs4.png)
 ![](../resources/images/devcs/devcs5.png)
 
-![](../resources/images/devcs/devcs6.png)
-![](../resources/images/devcs/devcs7.png)
-![](../resources/images/devcs/devcs8.png)
-![](../resources/images/devcs/devcs9.png)
 ![](../resources/images/devcs/devcs10.png)
 
 ![](../resources/images/devcs/devcs11.png)
