@@ -1,11 +1,13 @@
 # Cafe Supremo Demo HR Application
 
 ## The Cafe Supremo HR Demo App
+The following pictures shows a sample of the Demo Application.
 
 ![](resources/images/cf/dashboard.png) ![](resources/images/cf/manager.png)
 
 ## Demo Application Source
 + [Download Cafe Supremo Demo App Source Code](resources/materials/Cafe-Supremo-HR.zip)
++ [Cafe Supremo Story Board](resources/materials/Cafe-Supremo-VBCS-StoryBoard-Extension-v1.pdf)
 
 ## Roles Instructions
 
