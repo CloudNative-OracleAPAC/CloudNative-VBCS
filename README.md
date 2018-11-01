@@ -12,7 +12,6 @@ The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service,
 ### VBCS Demo Web Application
 This web application features a fictitious company Cafe Supremo, human resources portal. This portal has been fully build using Visual Builder. Below the story board and the source of the application. You can download and import into your own Visual Builder Cloud instance.
 
-+ [Cafe Supremo Story Board](resources/materials/Cafe-Supremo-VBCS-StoryBoard-Extension-v1.pdf)
 + [Cafe Supremo Demo App](CF-Demo-App.md)
 
 ### Labs
