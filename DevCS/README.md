@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive: Autonomous Visual Builder Cloud Service
 
-## Setting up Developer Cloud with Visual Builder
+## Setting up Developer Cloud for Visual Builder
 
 ### Introduction
 Developer Cloud provides you a streamlined and automated development to delivery process with a unified integrated solution. 
