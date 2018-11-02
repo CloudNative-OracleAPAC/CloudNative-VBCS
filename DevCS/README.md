@@ -90,7 +90,7 @@ Fill in:
 + DevCS Password: Your password
 
 > Note eg. https://`username%40oracle.com@`developer.us2.oraclecloud.com/developer-gse00000000`/s/developer-gse0000000_mytravel_27505/scm/mytravel.git` reduce to
-https://developer.us2.oraclecloud.com/developer-gse00000000/
+`https://developer.us2.oraclecloud.com/developer-gse00000000/`
 
 Click **`Save Credentials`**. 
 
