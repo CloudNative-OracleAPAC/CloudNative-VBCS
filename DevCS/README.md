@@ -141,12 +141,14 @@ Click **`Push to Git`**.
 ![](../resources/images/devcs/devcs21.png)
 
 As a result you should see the following when completed.
+
 ![](../resources/images/devcs/devcs23.png)
 
 ### 4. Verify the result in Developer Cloud
 Now return to your DevCS environment and you will see the latest activities on your Summary page.
 
 Click on the left top **hamburger** menu.
+
 ![](../resources/images/devcs/devcs24.png)
 
 Click **`Code`** menu icon.
@@ -154,6 +156,7 @@ Click **`Code`** menu icon.
 ![](../resources/images/devcs/devcs25.png)
 
 Now you can see the code that has been pushed from VBCS to your DevCS.
+
 ![](../resources/images/devcs/devcs26.png)
 
 You have completed this lab.
