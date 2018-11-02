@@ -37,5 +37,4 @@ Role based access control (RBAC) has been implemented in the demo. In order to p
 
 ![](resources/images/Roles-6.png)
 
-![](resources/images/Roles-7.png)
-
+<img src="resources/images/Roles-7.png" width="75%"/>
