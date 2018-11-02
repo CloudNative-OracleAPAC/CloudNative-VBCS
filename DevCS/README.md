@@ -115,7 +115,7 @@ Select the following:
 + DevCS URL with Credentials: The URL pointing to your DevCS
 + Project Selection: **mytravel**
 + Repository Selection: **mytravel.git**
-+Branch Selection: **master**
++ Branch Selection: **master**
 
 Click **`Save Configuration`**.
 
