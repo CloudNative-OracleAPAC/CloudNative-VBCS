@@ -9,9 +9,11 @@ The following pictures shows a sample of the Demo Application.
 + [Download Cafe Supremo Demo App Source Code](resources/materials/Cafe-Supremo-HR.zip)
 + [Cafe Supremo Story Board](resources/materials/Cafe-Supremo-VBCS-StoryBoard-Extension-v1.pdf)
 
-## Roles Instructions
+## Post application import steps
 
 > Assume you have imported the application source code above successfully.
+
+### Roles Setup Instructions
 
 Role based access control (RBAC) has been implemented in the demo. In order to provide access to the navigation within the application you will need to set up the following:
 
