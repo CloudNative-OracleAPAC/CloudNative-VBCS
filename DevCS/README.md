@@ -3,7 +3,7 @@
 ## Setting up Developer Cloud for Visual Builder
 
 ### Introduction
-Developer Cloud provides you a streamlined and automated development to delivery process with a unified integrated solution. 
+Developer Cloud provides you a streamlined and automated "development to delivery" process with a unified integrated solution. 
 
 **Plan and Manage**
 
