@@ -12,8 +12,7 @@ The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service,
 ### Provisioning VBCS Instance
 This is a short video that shows the provisioning steps for Autonomous VBCS.
 
-<iframe src="https://player.vimeo.com/video/293590267" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/293590267">Autonomous Visual Builder Cloud Provisioning Steps</a>.</p>
+[![IMAGE ALT TEXT](https://i.vimeocdn.com/video/730265167_130x73.jpg)](https://vimeo.com/293590267 "Autonomous Visual Builder Cloud Provisioning Steps.")
 
 
 ### VBCS Demo Web Application
