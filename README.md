@@ -9,6 +9,12 @@ When coding classes are commonly taught from Grade One, and the machine processi
 
 The center showpiece here is the Oracle Autonomous Visual Builder Cloud Service, which provides an easy way to create and host web and mobile applications in a secure cloud environment. It offers an intuitive visual development experience on top of a complete development and hosting platform, which accelerates the entire cycle of application creation and provisioning, while it leverages an open, standard-based architecture  
 
+### Provisioning VBCS Instance
+This is a short video that shows the provisioning steps for Autonomous VBCS.
+
+[![IMAGE ALT TEXT](https://i.vimeocdn.com/video/730265167_130x73.jpg)](https://vimeo.com/293590267 "Autonomous Visual Builder Cloud Provisioning Steps.")
+
+
 ### VBCS Demo Web Application
 This web application features a fictitious company Cafe Supremo, human resources portal. This portal has been fully build using Visual Builder. Below the story board and the source of the application. You can download and import into your own Visual Builder Cloud instance.
 

@@ -34,7 +34,7 @@ At the top of the navigator, click the **`Business Objects`** menu and select Da
 
 ![alt text](../resources/images/mob/4.png "Logo Title Text 1") 
  
-Download the Business Object spreadsheet here: <a href="resources/materials/newFlights.xlsx">Dowload</a>. 
+Download the Business Object spreadsheet here: <a href="../resources/materials/newFlights.xlsx">Download</a>. 
 
 Once downloaded, Click on **`Import Business Objects`** to import data from a spreadsheet
 
@@ -116,11 +116,11 @@ Click **`OK`**
 
 ![alt text](../resources/images/mob/17.png "Logo Title Text 1")
 
-Add a field: Average Cost, type Number, that is going to show the total cost of air travel expense requests by airline
+Add a field: **Average Cost**, type **Number**, that is going to show the total cost of air travel expense requests by airline
 
 Again, with the Average Cost field selected, go to the Value Calculation section of the Property Palette and select **`(*) Aggregate from related object data`**
 
-From the Travel Request object, select Average as the function and Cost as the field to aggregate
+From the Travel Request object, select **`Average`** as the function and **`Cost`** as the field to aggregate
 
 ![alt text](../resources/images/mob/18.png "Logo Title Text 1") 
 
