@@ -14,7 +14,7 @@ Your mobile application must be signed before it can be deployed to an Android d
 
 We have generated a sample keystore for you to use. Download the KeyStore file below.
 
-Sample Keystore file:  <a href="resources/KSFile/vbcsdoc.keystore">vbcsdoc.keystore</a>
+Sample Keystore file:  <a href="../resources/KSFile/vbcsdoc.keystore">vbcsdoc.keystore</a>
 
 + Keystore Password: **vbcsdoc_ks_pass**
 + Key alias: **vbcsdoc_ksalias**
