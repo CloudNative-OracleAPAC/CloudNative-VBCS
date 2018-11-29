@@ -34,7 +34,7 @@ At the top of the navigator, click the **`Business Objects`** menu and select Da
 
 ![alt text](../resources/images/mob/4.png "Logo Title Text 1") 
  
-Download the Business Object spreadsheet here: <a href="resources/materials/newFlights.xlsx">Dowload</a>. 
+Download the Business Object spreadsheet here: <a href="../resources/materials/newFlights.xlsx">Dowload</a>. 
 
 Once downloaded, Click on **`Import Business Objects`** to import data from a spreadsheet
 
