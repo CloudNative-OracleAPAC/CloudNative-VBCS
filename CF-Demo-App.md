@@ -17,13 +17,13 @@ The following pictures shows a sample of the Demo Application.
 
 Role based access control (RBAC) has been implemented in the demo. In order to provide access to the navigation within the application you will need to set up the following:
 
-+ 1. Create two new groups: CF Employee and CF Manager
-+ 2. Assign users that need access to the runtime app to the groups. For managers role, add user to CF Manager and CF Employee groups. For Employee role only add user to CF Employee group.
-+ 3. Link GROUPS (CF Employee and CF Manger) to virtual Roles in VBCS
+1. Create two new groups: CF Employee and CF Manager
+2. Assign users that need access to the runtime app to the groups. For managers role, add user to CF Manager and CF Employee groups. For Employee role only add user to CF Employee group.
+3. Link GROUPS (CF Employee and CF Manger) to virtual Roles in VBCS
 
 ![](resources/images/Roles-4.png)
 
-+ 4. Test your configuration
+4. Test your configuration
 
 ![](resources/images/Roles-5.png)
 
