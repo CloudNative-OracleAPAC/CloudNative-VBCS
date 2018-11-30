@@ -79,4 +79,4 @@ Finally **Run** the application again in the mobile simulator and move between t
 ### If you have extra time proceed to EXTRA
 
 ---
-> [`HOME`](../README.md) | [`PART 1`](MOB_PART_1.md) | [`PART 2`](MOB_PART_2.md) | [`EXTRA`](MOB_EXTRA_1.md) | [`Connecting DevCS`](../DevCS/README.md)
+> [`HOME`](../README.md) | [`PART 1`](README.md.md) | [`PART 2`](MOB_PART_2.md) | [`EXTRA`](MOB_EXTRA_1.md) | [`Connecting DevCS`](../DevCS/README.md)

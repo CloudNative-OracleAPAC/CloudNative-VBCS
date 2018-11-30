@@ -129,4 +129,4 @@ Once you hit the Stage button (above) the Mobile application is staged and, as i
 ## Congratulations you have completed your myTravel Mobile App using VBCS!
 
 ---
-> [`HOME`](../README.md) | [`PART 1`](MOB_PART_1.md) | [`PART 2`](MOB_PART_2.md) | [`EXTRA`](MOB_EXTRA_1.md) | [`Connecting DevCS`](../DevCS/README.md)
+> [`HOME`](../README.md) | [`PART 1`](README.md.md) | [`PART 2`](MOB_PART_2.md) | [`EXTRA`](MOB_EXTRA_1.md) | [`Connecting DevCS`](../DevCS/README.md)
