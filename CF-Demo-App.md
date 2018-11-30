@@ -23,9 +23,9 @@ Role based access control (RBAC) has been implemented in the demo. In order to p
 
 ![](resources/images/Roles-4.png)
 
-4. Test your configuration
-
 ![](resources/images/Roles-5.png)
+
+4. Test your configuration
 
 ![](resources/images/Roles-6.png)
 
