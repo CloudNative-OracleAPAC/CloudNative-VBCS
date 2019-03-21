@@ -1,7 +1,7 @@
 # Part 1: Creating your Business Objects (Data Model)
 After this excercise you will have the following Business Object Model.
 
-![alt text](../resources/images/bo/BO.png "Logo Title Text 1")
+![alt text](../resources/images/bo/BO-new.png "Logo Title Text 1")
 ----
 ## Steps:
 1. You will need to login into VBCS with your username and password
@@ -30,11 +30,11 @@ After this excercise you will have the following Business Object Model.
 
 > You can create Business Objects in various ways either by creating it ussing the VBCS interface, where you manually specify the Business Object name and fields or import one or more BO's using a .csv or excel file. In this lab we will use the import method.
 
-![alt text](../resources/images/bo/5.png "Logo Title Text 1")
+![alt text](../resources/images/bo/5-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/6.png "Logo Title Text 1")
+![alt text](../resources/images/bo/6-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/7.png "Logo Title Text 1")
+![alt text](../resources/images/bo/7-new.png "Logo Title Text 1")
 
 8. Click the next icon <a href="../resources/materials/Sample-VBCS-DataModel.xlsx">![alt text](../resources/images/bo/8.png "Logo Title Text 1")</a> and click `download` button on the next screen to download the VBCS Data Model file. You will need this file later in this lab.
 
