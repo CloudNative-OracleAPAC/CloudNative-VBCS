@@ -38,6 +38,7 @@ After this excercise you will have the following Business Object Model.
 
 8. Click the next icon <a href="../resources/materials/Sample-VBCS-DataModel.xlsx">![alt text](../resources/images/bo/8.png "Logo Title Text 1")</a> and click `download` button on the next screen to download the VBCS Data Model file. You will need this file later in this lab.
 
+![alt text](../resources/images/bo/8-A.png "Logo Title Text 1")
 
 > Take a look in the excel file and see what data.
 
@@ -99,7 +100,7 @@ After this excercise you will have the following Business Object Model.
 18. The results. 
 > As a result you can see how the relationship between the BO's are and if you hover and click on the relationship links you can see that you can reconfigure it. Have a try!
 
-![alt text](../resources/images/bo/28.png "Logo Title Text 1")
+![alt text](../resources/images/bo/28-new.png "Logo Title Text 1")
 
 We now have completed Part 1, please proceed to Part 2 of this lab.
 
