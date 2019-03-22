@@ -20,5 +20,5 @@ Have fun!
 
 Continue with MOB PART 1
 
-> [`HOME`](README.md) | [`MOB PART 1`](MOB_PART_1.md) | [`MOB PART 2`]MOB_(PART_2.md) | [`MOB PART 3`](MOB_PART_3.md)
+> [`HOME`](README.md) | [`MOB PART 1`](WebApp/MOB_PART_1.md) | [`MOB PART 2`]MOB_(WebApp/PART_2.md) | [`MOB PART 3`](WebApp/MOB_PART_3.md)
 
