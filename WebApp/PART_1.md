@@ -71,20 +71,20 @@ After this excercise you will have the following Business Object Model.
 
 > Follow the instructions in the illustration.
 
-![alt text](../resources/images/bo/16.png "Logo Title Text 1")
-![alt text](../resources/images/bo/16A.png "Logo Title Text 1")
+![alt text](../resources/images/bo/16-new.png "Logo Title Text 1")
+![alt text](../resources/images/bo/16A-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/16B.png "Logo Title Text 1")
+![alt text](../resources/images/bo/16B-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/16C.png "Logo Title Text 1")
+![alt text](../resources/images/bo/16C-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/16D.png "Logo Title Text 1")
+![alt text](../resources/images/bo/16D-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/17.png "Logo Title Text 1")
+![alt text](../resources/images/bo/17-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/18.png "Logo Title Text 1")
+![alt text](../resources/images/bo/18-new.png "Logo Title Text 1")
 
-![alt text](../resources/images/bo/19.png "Logo Title Text 1")
+![alt text](../resources/images/bo/19-new.png "Logo Title Text 1")
 
 15. Now the BO's are created and the data imported in the BO's. Click `Close` button to continue.
 
