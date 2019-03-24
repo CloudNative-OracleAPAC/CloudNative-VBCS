@@ -1,7 +1,7 @@
 # Part 2: User Interface
 
 ## Introduction
-In this part of the lab you will be creating a UI front end and bind the data from the BO's to the UI Components. You also will build, Create, Edit and Delete screens.
+In this part of the lab you will be creating a UI front end and bind the data from the BO's to the UI Components. You also build, a Create, an Edit screens and a Delete function.
 
 ### Steps
 ----
