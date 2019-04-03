@@ -14,16 +14,15 @@ In this part of the lab you will be creating a UI front end and bind the data fr
 
 ![alt text](../resources/images/ui/31-new.png)
 
+> Now select and drag and drop the header component from the component palette to your application build screen
+
 ![alt text](../resources/images/ui/32-new.png)
 
 ![alt text](../resources/images/ui/33-new.png)
 
+![alt text](../resources/images/ui/34-new.png)
 #### 2. Adding seperator line
 > What we will start with is to place a header and a seperator line onto the main application page.
-
-
-
-![alt text](../resources/images/ui/34-new.png)
 
 ![alt text](../resources/images/ui/35-new.png)
 
