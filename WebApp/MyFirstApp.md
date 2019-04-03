@@ -27,7 +27,7 @@ The following figure shows the interactions among these building blocks.
 In this hands on lab you will be building a Simple HR application that features Employees, Departments and Locations.
 Below a preview of the end result.
 
-![Finished Application](../resources/images/ResultScreen.png "Finished Application")
+![Finished Application](../resources/images/graph/107-new.png "Finished Application")
 ----
 Have fun!
 
