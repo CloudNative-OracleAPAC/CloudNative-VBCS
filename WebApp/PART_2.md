@@ -76,7 +76,7 @@ Now we have a full view of the table, we most probably want to change the name o
 
 -->
 
-#### 5. Adjust Table
+#### 5. Change Picture component in Table
 > Now we have a full view of the table, we most probably want to change the way we present the picture. The following steps will guide you how this can be done.
 
 ![alt text](../resources/images/ui/AT-1.png)
@@ -132,7 +132,7 @@ remove ![alt text](../resources/images/ui/57.png)
 
 ![alt text](../resources/images/ui/66-new.png)
 
-remove ![alt text](../resources/images/ui/67.png)
+<!-- remove ![alt text](../resources/images/ui/67.png)-->
 
 ![alt text](../resources/images/ui/82.png)
 
