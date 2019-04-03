@@ -11,17 +11,21 @@ Please follow the video instructions.
 
 > <a href="../resources/images/graph/CreateSalaryChart.mp4">Download Video</a>
 
+![alt text](../resources/images/graph/graph-1.png)
+
 > 2. Adding Total Employees by Department
 
 Please follow the video instructions.
 
 > <a href="../resources/images/graph/CreateEmployeeChart.mp4">Download Video</a>
 
+![alt text](../resources/images/graph/graph-2.png)
+
 > 3. Now you're ready to preview your application, click the `preview` button
 
-![alt text](../resources/images/graph/106.png "Logo Title Text 1")
+![alt text](../resources/images/graph/106.png)
 
-![alt text](../resources/images/graph/107-new.png "Logo Title Text 1")
+![alt text](../resources/images/graph/107-new.png)
 
 ## Well done!! You are done and have completed your First Application.
 
