@@ -5,7 +5,7 @@ In this part we will be adding two graphs to your application that visualises th
 
 ### Steps
 ----
-> 1. Adding Total Salary by Department
+## 1. Adding Total Salary by Department
 
 Please follow the video instructions.
 
@@ -13,7 +13,7 @@ Please follow the video instructions.
 
 ![alt text](../resources/images/graph/graph-1.png)
 
-> 2. Adding Total Employees by Department
+## 2. Adding Total Employees by Department
 
 Please follow the video instructions.
 
@@ -21,7 +21,7 @@ Please follow the video instructions.
 
 ![alt text](../resources/images/graph/graph-2.png)
 
-> 3. Now you're ready to preview your application, click the `preview` button
+## 3. Now you're ready to preview your application, click the `preview` button
 
 ![alt text](../resources/images/graph/106.png)
 
