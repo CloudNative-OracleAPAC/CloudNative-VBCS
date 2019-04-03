@@ -120,7 +120,7 @@ remove ![alt text](../resources/images/ui/57.png)
 
 ![alt text](../resources/images/ui/63-new.png)
 
-remove ![alt text](../resources/images/ui/64.png)
+<!-- remove ![alt text](../resources/images/ui/64.png) -->
 
 ![alt text](../resources/images/ui/65-new.png)
 
@@ -156,7 +156,7 @@ remove ![alt text](../resources/images/ui/67.png)
 
 ![alt text](../resources/images/ui/77-new.png)
 
-remove ![alt text](../resources/images/ui/78.png)
+<!-- remove ![alt text](../resources/images/ui/78.png) -->
 
 ![alt text](../resources/images/ui/79-new.png)
 
