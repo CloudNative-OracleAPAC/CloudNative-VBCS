@@ -8,18 +8,20 @@ In this part of the lab you will be creating a UI front end and bind the data fr
 #### 1. Adding Header
 > The next two steps is to get you to the main page of your application
 
-![alt text](../resources/images/ui/29.png "Logo Title Text 1") 
+![alt text](../resources/images/ui/29.png) 
 
 ![alt text](../resources/images/ui/30-new.png)
-
-#### 2. Adding seperator line
-> What we will start with is to place a header and a seperator line onto the main application page.
 
 ![alt text](../resources/images/ui/31-new.png)
 
 ![alt text](../resources/images/ui/32-new.png)
 
 ![alt text](../resources/images/ui/33-new.png)
+
+#### 2. Adding seperator line
+> What we will start with is to place a header and a seperator line onto the main application page.
+
+
 
 ![alt text](../resources/images/ui/34-new.png)
 
