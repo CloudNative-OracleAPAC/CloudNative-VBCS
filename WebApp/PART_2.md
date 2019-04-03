@@ -149,7 +149,7 @@ remove ![alt text](../resources/images/ui/67.png)
 
 ![alt text](../resources/images/ui/75-new.png)
 
-![alt text](../resources/images/ui/76.png)
+<!-- ![alt text](../resources/images/ui/76.png) -->
 
 #### 9. Adding Delete
 > Before we move to our next section, we have to navigate back to our `main-start` page. We will guide you through a creation of the `Delete Employee` function.
