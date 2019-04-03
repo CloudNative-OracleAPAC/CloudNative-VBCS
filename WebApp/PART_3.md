@@ -9,14 +9,13 @@ In this part we will be adding two graphs to your application that visualises th
 
 Please follow the video instructions.
 
-![alt text](../resources/images/graph/CreateSalaryChart.mp4)
-
+> <a href="../resources/images/graph/CreateSalaryChart.mp4">Download Video</a>
 
 > 2. Adding Total Employees by Department
 
 Please follow the video instructions.
 
-![alt text](../resources/images/graph/CreateEmployeeChart.mp4)
+> <a href="../resources/images/graph/CreateEmployeeChart.mp4">Download Video</a>
 
 > 3. Now you're ready to preview your application, click the `preview` button
 
