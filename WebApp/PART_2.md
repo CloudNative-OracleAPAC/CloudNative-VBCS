@@ -104,7 +104,7 @@ Now we have a full view of the table, we most probably want to change the name o
 
 ![alt text](../resources/images/ui/56-new.png)
 
-remove ![alt text](../resources/images/ui/57.png)
+<!-- remove ![alt text](../resources/images/ui/57.png) -->
 
 ![alt text](../resources/images/ui/58-new.png)
 
