@@ -1,0 +1,28 @@
+# Part 3: Adding a Graphs to your application
+
+## Introduction
+In this part we will be adding two graphs to your application that visualises the number of employees per department and total salaries by department.
+
+### Steps
+----
+> 1. Adding Total Salary by Department
+
+Please follow the video instructions.
+
+![alt text](../resources/images/graph/106.png)
+
+> 2. Adding Total Emplyees by Department
+
+Please follow the video instructions.
+
+![alt text](../resources/images/graph/106.png)
+
+> 3. Now you're ready to preview your application, click the `preview` button
+
+![alt text](../resources/images/graph/106.png "Logo Title Text 1")
+
+![alt text](../resources/images/graph/107-new.png "Logo Title Text 1")
+
+## Well done!! You are done and have completed your First Application.
+
+> [`HOME`](../README.md) | [`PART 1`](PART_1.md) | [`PART 2`](PART_2.md) | [`PART 3`](PART_3.md)
